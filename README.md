@@ -1,6 +1,6 @@
 # first-practice
 it is my practice today
-<<endl;
+<br>
 my name is maaz baloch
-<<endl;
+<br>
 i am a student
